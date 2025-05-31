@@ -1,0 +1,11 @@
+# ignore macOS file
+.DS_Store
+
+
+# ignore devbox, poetry environment and package control tool 
+.venv/
+.devbox/
+
+
+# python 
+__pycache__/
